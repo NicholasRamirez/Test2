@@ -1,7 +1,7 @@
 import java.util.Scanner;
 public class PalindromeTest
 {
-   public static void main(String[] args)
+   public static void main(String[] args) // hello
    {
       Scanner kb = new Scanner(System.in);
       System.out.print("enter a string: ");
